@@ -84,11 +84,12 @@ a {
     width: 96px;
     border-radius: 48px;
     overflow: hidden;
-    margin: 24px;
+    margin: -4px;
 }
 
 .image-container img {
     height: 100%;
+   
 }
 
 .icon {
@@ -98,7 +99,7 @@ a {
 }
 
 .nagi{
-    margin: 24px;
+    margin: 34px;
    
 }
 
@@ -116,4 +117,8 @@ a {
   margin: 24px;
   text-align: right;  
   font-size: 10px;
+}
+
+.producto{
+    margin-top: 84px;
 }
