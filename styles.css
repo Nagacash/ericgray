@@ -129,3 +129,12 @@ a {
 .producto{
     margin-top: 84px;
 }
+
+.amazon{
+    display: flex;
+    padding: 22px;
+}
+
+.amazonn{
+    padding: 6px;
+}
