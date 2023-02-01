@@ -109,7 +109,7 @@ a {
 }
 
 .ai{
-    margin: 24px;
+    margin: 44px;
     color:rgb(228, 177, 10)
 }
 
@@ -118,6 +118,10 @@ a {
     color:rgb(228, 177, 10);
     font-size: 24px;
     margin-bottom: -20px;
+}
+
+.cntr{
+    padding-top: 20px;
 }
 
 .mo{
@@ -152,5 +156,9 @@ a {
 }
 
 .conti2{
+    padding: 50px;
+}
+
+.button{
     padding: 50px;
 }
