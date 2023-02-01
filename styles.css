@@ -138,3 +138,19 @@ a {
 .amazonn{
     padding: 6px;
 }
+
+.pics{
+    height: 100px;
+    width: 800px;
+}
+
+.conti{
+    padding-bottom: 50px;
+    border-color:rgb(207, 161, 8);
+    border-style: dashed;
+    border: 10px solid;
+}
+
+.conti2{
+    padding: 50px;
+}
