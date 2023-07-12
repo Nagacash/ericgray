@@ -24,6 +24,10 @@ header {
     height:100 px
 } */
 
+.dark{
+    color: black
+}
+
 .share-button {
     width: 40px;
     height: 40px;
@@ -127,6 +131,10 @@ a {
 
 .cntr{
     padding-top: 20px;
+}
+
+.txt{
+    font-size: 17px;
 }
 
 .mo{
